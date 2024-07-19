@@ -585,6 +585,7 @@ int LftpUploadFilesDestroy(void)
     return 0;
 }
 
+/* test lftp api */
 int main(void)
 {
     LftpParam param;
